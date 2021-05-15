@@ -1,10 +1,10 @@
-# Extracted from https://github.com/jizt-it/jizt-api-spec/blob/main/.github/workflows/build-docs.yml
-
 name: Build docs
 on:
   push:
     branches:
       - main
+
+# Extracted from https://github.com/jizt-it/jizt-api-spec/blob/main/.github/workflows/build-docs.yml
 
 jobs:
   build:
